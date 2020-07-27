@@ -1,19 +1,15 @@
-#Lyric Search App
+# Lyric Search App
 
 [![Canonical Badge](https://img.shields.io/badge/Live__Site-EF3125?style=for-the-badge&logo=canonical)](https://realtime-react-chatapp.netlify.app/)
 
 ![Lyric Search App](https://i.postimg.cc/bNb0SLfX/image-1.png)
 
+## Introduction
 
-
-
-
-
-
-
-
-
-
+This project is made by using React, Bootstrap and Musixmatch API using axios
+- It includes a Top 10 Track list.
+- Search functionality
+- Lyrics page for each song with album details and artist info
 
 
 ## Available Scripts
