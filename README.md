@@ -1,5 +1,7 @@
-Lyric Search App
+#Lyric Search App
+
 [![Canonical Badge](https://img.shields.io/badge/Live__Site-EF3125?style=for-the-badge&logo=canonical)](https://realtime-react-chatapp.netlify.app/)
+
 ![Lyric Search App](https://i.postimg.cc/bNb0SLfX/image-1.png)
 
 
