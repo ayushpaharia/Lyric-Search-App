@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project is made by using React, Bootstrap and Musixmatch API using axios
+This project is made by using React, Bootstrap, ContextAPI and Musixmatch API using axios
 - It includes a Top 10 Track list.
 - Search functionality
 - Lyrics page for each song with album details and artist info
